@@ -30,7 +30,7 @@ var About = (props) => {
 					<a href="https://nodejs.org/en/" target="_blank">Node</a>
 				</li>
 				<li>
-					<a href="https://babeljs.io/" target="_blank">ES-6 with Babel</a>
+					<a href="https://babeljs.io/" target="_blank">ES-6 & JSX with Babel</a>
 				</li>
 				<li>
 					<a href="https://github.com/mzabriskie/axios" target="_blank">Axios</a>
