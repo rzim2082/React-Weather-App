@@ -20,7 +20,7 @@ var Main = (props) => {
 		<div>
 			<Nav/>
 			<div className="row">
-				<div className="columns medium-6 large-4 small-centered">
+				<div className="columns medium-6 large-4 small-centered page-title">
 					{props.children}
 				</div>
 			</div>
